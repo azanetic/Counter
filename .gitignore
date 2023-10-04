@@ -1,0 +1,9 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore node modules directory
+node_modules/
+
+# Ignore all .log files
+*.log
+
